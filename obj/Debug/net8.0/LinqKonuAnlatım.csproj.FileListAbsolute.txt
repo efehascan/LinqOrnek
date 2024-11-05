@@ -1,0 +1,14 @@
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\bin\Debug\net8.0\LinqKonuAnlatım.exe
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\bin\Debug\net8.0\LinqKonuAnlatım.deps.json
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\bin\Debug\net8.0\LinqKonuAnlatım.runtimeconfig.json
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\bin\Debug\net8.0\LinqKonuAnlatım.dll
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\bin\Debug\net8.0\LinqKonuAnlatım.pdb
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\LinqKonuAnlatım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\LinqKonuAnlatım.AssemblyInfoInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\LinqKonuAnlatım.AssemblyInfo.cs
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\LinqKonuAnlatım.csproj.CoreCompileInputs.cache
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\LinqKonuAnlatım.dll
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\refint\LinqKonuAnlatım.dll
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\LinqKonuAnlatım.pdb
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\LinqKonuAnlatım.genruntimeconfig.cache
+C:\Users\theda\RiderProjects\projecteuler\LinqKonuAnlatım\obj\Debug\net8.0\ref\LinqKonuAnlatım.dll
